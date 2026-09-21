@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grok-cli.github.io/sitemap.xml
