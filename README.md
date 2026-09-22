@@ -19,3 +19,5 @@ The official terminal agent is worth a look if you already run coding agents and
 ---
 
 *This is an independent page written by a third party; it is not operated by or affiliated with xAI, MiniMax or any CLI project mentioned, and all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
